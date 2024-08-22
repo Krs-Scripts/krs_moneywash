@@ -1,0 +1,14 @@
+{
+    "title_notify": "Krs MoneyWash",
+    "description_start_wash": "You are already laundering money.",
+    "title_menu_dialog": "Money wash",
+    "label_dialog": "Amount",
+    "description_dialog": "Dirty money",
+    "description_time_wash": "You must wait [1] minute before you can launder again.",
+    "description_start_washing": "You have started the money laundering process.",
+    "label_progress": "..Wait for your money to be laundered..",
+    "description_finish_wash": "Your money has been successfully laundered!",
+    "enter_textui": " [E] - To launder your money",
+    "error_notify": "error",
+    "inform_notify": "info"
+}

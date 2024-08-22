@@ -1,0 +1,14 @@
+{
+    "title_notify": "Krs MoneyWash",
+    "description_start_wash": "Stai già lavando denaro.",
+    "title_menu_dialog": "Lavaggio Soldi",
+    "label_dialog": "Quantità",
+    "description_dialog": "denaro sporco",
+    "description_time_wash": "Devi aspettare [1] minuto prima di poter lavare di nuovo.",
+    "description_start_washing": "Hai avviato il processo di lavaggio.",
+    "label_progress": "..Attendi che il tuo denaro venga pulito..",
+    "description_finish_wash": "Hai completato il lavaggio del tuo denaro!",
+    "enter_textui": " [E] - Per lavare il tuo denaro",
+    "error_notify": "errore",
+    "inform_notify": "informativo"
+}
